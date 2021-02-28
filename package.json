@@ -1,6 +1,6 @@
 {
   "name": "signpost",
-  "version": "0.1.0",
+  "version": "0.5.0",
   "description": "lightwaight router for domestic projects",
   "main": "index.js",
   "directories": {
